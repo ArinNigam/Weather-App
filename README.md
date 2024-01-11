@@ -1,7 +1,7 @@
 
 # Weather App
 
-<img width="1440" alt="image" src="https://github.com/ArinNigam/Weather-App/assets/99138286/3cbb7eb8-fbc6-4c90-9d5f-83bd6e7b77a0">
+<img width="1440" alt="image" src="https://github.com/ArinNigam/Weather-App/assets/99138286/b546599d-8d32-4a72-9944-5b7d2ee6a942">
 
 
 ## Deployment
@@ -24,3 +24,18 @@ Hey this is a simle frontend project made using NextJS and TailwindCSS
 - TailwindCSS
 
 
+
+## Installation
+
+### NextJS
+
+```bash
+npx create-next-app my-project
+cd my-project
+```
+
+### TailwindCSS
+ ```bash
+npm install -D tailwindcss
+npx tailwindcss init
+```
